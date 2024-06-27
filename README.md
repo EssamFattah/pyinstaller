@@ -20,7 +20,7 @@ After downloading the necessary modules from the requirements.txt file using “
 
 <img width="797" alt="Screenshot 2024-06-27 at 8 17 29 PM" src="https://github.com/EssamFattah/pyinstaller/assets/122282163/cc0fc79f-033e-446f-b350-042a76ff762c">
 
-We find a coverage of 60 percent for the project.
+We find a coverage of 63 percent for the project.
 
 ### Your own coverage tool
 
