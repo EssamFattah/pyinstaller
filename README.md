@@ -157,11 +157,11 @@ We can see a coverage increase of 1% on the overall code, down below you can see
 <img width="915" alt="Screenshot 2024-06-27 at 8 23 44 PM" src="https://github.com/EssamFattah/pyinstaller/assets/122282163/ab592024-db1d-4b19-bc39-dd568b592088">
 
 ## Statement of individual contributions
-Looked for a suitable repository: Future and Seleem
-Figured out how to run the coverage test: Future and Seleem
-Took care of the forked repository: Future
-Wrote and put together the documentation: Seleem
-Wrote the coverage code for the build_script and  _module_collection_mode_sanitizer functions: Future
+Looked for a suitable repository: Future and Seleem, 
+Figured out how to run the coverage test: Future and Seleem, 
+Took care of the forked repository: Future, 
+Wrote and put together the documentation: Seleem, 
+Wrote the coverage code for the build_script and  _module_collection_mode_sanitizer functions: Future, 
 Wrote the coverage code for the make_path_spec_relative and 
 _check_guts_eq functions: Seleem
 
