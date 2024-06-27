@@ -1,4 +1,4 @@
-<img width="962" alt="Screenshot 2024-06-27 at 8 18 29 PM" src="https://github.com/EssamFattah/pyinstaller/assets/122282163/714a35ae-b9c4-46fd-a54c-bedcddfc2a59"># Report for Assignment 1
+# Report for Assignment 1
 
 ## Project chosen
 
